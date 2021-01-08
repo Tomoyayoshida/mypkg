@@ -33,4 +33,4 @@ https://www.youtube.com/watch?v=H0TVblQgT6M
 ## 作成者
 Tomoya yoshida and Ryuichi Ueda 
 ## license
-BSD-2-Clause-License
+BSD-3-Clause-License
