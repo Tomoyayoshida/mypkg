@@ -5,7 +5,7 @@
 robosys2020 task2
 
 ## 改造内容
-- 講義中に作成したROSの改造を行った。
+- 講義中に作成したROSを用いデジタル時計のような数値を返すように改造した。
 ## 動作環境
 - Ubuntu 20.04
 - Raspberry Pi 4 Model B
