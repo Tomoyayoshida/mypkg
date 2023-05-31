@@ -29,7 +29,7 @@ robosys2020 task2
 `data : 122`この場合は1分22秒を示す
 
 ## デモ動画
-https://www.youtube.com/watch?v=H0TVblQgT6M
+~~https://www.youtube.com/watch?v=H0TVblQgT6M~~ 大学の垢が使えなくなったため見れなくなりました。
 ## 作成者
 Tomoya yoshida and Ryuichi Ueda 
 ## license
